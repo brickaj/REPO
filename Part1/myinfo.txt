@@ -1,8 +1,5 @@
 Amy Brick
-<<<<<<< HEAD
 23220 
 brickaj@vcu.edu 
-=======
 804-481-0161 
-brickaj 
->>>>>>> b12d1e37977dd2ed11a9768eeb219895c1c5c269
+brickaj
